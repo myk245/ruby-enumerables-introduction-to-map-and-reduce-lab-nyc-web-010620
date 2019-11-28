@@ -8,5 +8,6 @@ end
 
 def map_to_no_change(source_array)
   source_array.each do |x|
-    puts x 
+    puts x
+  end 
 end
