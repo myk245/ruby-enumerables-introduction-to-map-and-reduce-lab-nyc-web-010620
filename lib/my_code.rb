@@ -1,4 +1,4 @@
 def map_to_negativize(source_array)
-  source_array.each |value|
-  value = value * -1 
+  source_array.each |a_value|
+  value = a_value * -1
 end
